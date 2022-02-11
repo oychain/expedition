@@ -33,7 +33,7 @@ const AddChain: React.FC<IProps> = (props: IProps) => {
         <DialogTitle id="form-dialog-title">Add Chain</DialogTitle>
         <DialogContent>
           <DialogContentText>
-            To add a chain to the chain list and begin using Expedition with your own
+            To add a chain to the chain list and begin using OYchain explorer with your own
             rpc provider, please enter the required fields below:
           </DialogContentText>
           <TextField
